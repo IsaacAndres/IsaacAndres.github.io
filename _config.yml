@@ -1,9 +1,9 @@
-title: Isaac Andrés
-description: My Personal Stack Problems
+title: BlackGoat Code
+#description: My Personal Stack Problems
 author: Isaac Andrés
 github: https://github.com/IsaacAndres
 about: Progrmador, estudiante de ingeniería (E) Informática y entusiasta de los videojuegos.
-disqus_shortname: stackproblems
+#disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: https://avatars3.githubusercontent.com/u/14645164?v=4&s=460
 
@@ -16,26 +16,26 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    #- icon: fa-facebook
+    #  link: "#"
     - icon: fa-twitter
       link: "https://twitter.com/Ragnardxc"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/isaac-figueroa"
-    - icon: fa-stack-exchange
-      link: "#"
+    #- icon: fa-stack-exchange
+    #  link: "#"
     - icon: fa-github
       link: "https://github.com/IsaacAndres"
 
 share:
   twitter_username: Ragnardxc
-  fb_appid: 1749788565247320
+  #fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    #- text: My Projects
+    #  url: /projects/
     - text: XML Feed
       url: /feed.xml
 
