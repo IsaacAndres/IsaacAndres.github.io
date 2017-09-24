@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+Progrmador, estudiante de ingeniería (E) Informática y entusiasta de los videojuegos.
 
-email: agus[at]python.web.id
+email: andres.figueroa@virginiogomez.cl
