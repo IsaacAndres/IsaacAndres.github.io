@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Programador, estudiante de ingeniería de (E) Informática y entusiasta de los videojuegos.
-
-email: andres.figueroa@virginiogomez.cl
+Programador y estudiante de ingeniería de (E) Informática.
+email: isaac.andres.figueroa@gmail.com
