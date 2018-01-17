@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Programador y estudiante de ingeniería de (E) Informática.
+Desarrollador de software.
+
 email: isaac.andres.figueroa@gmail.com
