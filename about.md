@@ -6,4 +6,4 @@ permalink: /about/
 
 Desarrollador de software.
 
-email: isaac.andres.figueroa@gmail.com
+Email: isaac.andres.figueroa@gmail.com
