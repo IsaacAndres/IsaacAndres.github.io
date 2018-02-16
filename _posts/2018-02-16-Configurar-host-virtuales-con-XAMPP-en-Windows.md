@@ -21,7 +21,7 @@ Ejemplo:
 ```
 2.- Configuara Apache de XAMPP para que resuelva las solicutudes al host name que agregamos.
 
-*  Editamos el archivo httpd-vhosts.conf que si instalamos XAMPP en la ruta por defecto encontraremos en:
+*  Editamos el archivo httpd-vhosts.conf que si instalamos XAMPP en la ruta por defecto lo encontraremos en:
 
 ```
 C:\xampp\apache\conf\extra
