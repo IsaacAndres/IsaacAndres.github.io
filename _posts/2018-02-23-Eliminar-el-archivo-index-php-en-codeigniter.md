@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eliminar el archivo index.php en CodeIgniter"
-date:   2018-02-16 13:40:00 +0700
+date:   2018-02-23 22:43:00 +0700
 categories: [Codeigniter]
 ---
 
