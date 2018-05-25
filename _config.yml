@@ -18,8 +18,8 @@ collections:
 social:
     #- icon: fa-facebook
     #  link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/Ragnardxc"
+    #- icon: fa-twitter
+    #  link: "https://twitter.com/Ragnardxc"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/isaac-figueroa"
     #- icon: fa-stack-exchange
