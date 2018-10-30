@@ -13,11 +13,11 @@ categories: [XAMPP,VirtualHost]
 C:\Windows\System32\drivers\etc\
 ```
 
-* En él podremos agregar todas las direcciones de proyectos que necesitemos, lo importante es colocar un host name que no exista. (Evitar los .com, .org, .tv, etc. Por lo general yo uso .local)
+* En él podremos agregar todas las direcciones de proyectos que necesitemos, lo importante es colocar un host name que no exista. (Evitar los .com, .org, .tv, etc. Por lo general yo uso .test)
 
 Ejemplo:
 ```
-127.0.0.1           nombre-del-proyecto.local
+127.0.0.1           nombre-del-proyecto.test
 ```
 2.- Configurar Apache de XAMPP para que resuelva las solicutudes al host name que agregamos.
 
@@ -30,7 +30,7 @@ C:\xampp\apache\conf\extra
 La configuración para que funcione el host virtual debería ser sólo lo siguiente:
 ```
 <VirtualHost *:80>
-    ServerName nombre-del-proyecto.local
+    ServerName nombre-del-proyecto.test
     DocumentRoot "C:/xampp/htdocs/nombre-del-proyecto/public"
     <Directory  "C:/xampp/htdocs/nombre-del-proyecto/public">
         AllowOverride All
