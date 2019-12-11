@@ -2,7 +2,7 @@ title: Blog
 #description: My Personal Stack Problems
 author: Isaac Andrés
 github: https://github.com/IsaacAndres
-about: Programador.
+about: Desarrollador Web / Analista Programador / PHP CodeIgniter
 #disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: https://avatars3.githubusercontent.com/u/14645164?v=4&s=460
@@ -26,6 +26,8 @@ social:
     #  link: "#"
     - icon: fa-github
       link: "https://github.com/IsaacAndres"
+    - icon: fa-github
+      link: "https://gist.github.com/IsaacAndres"
 
 share:
   twitter_username: Ragnardxc
